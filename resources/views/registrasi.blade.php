@@ -80,6 +80,8 @@
                 <input type="file" name="face_image" class="form-control" accept="image/*">
             </div>
 
+            
+
             <div class="mb-3">
                 <label class="form-label">Jenis Kelamin</label><br>
                 <div class="form-check form-check-inline">
